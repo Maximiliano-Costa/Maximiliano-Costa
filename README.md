@@ -1,4 +1,4 @@
-## Olá eu sou o Maximiliano Costa  👋
+## Olá, meu nome é Maximiliano Costa  👋
 
 - 🔭 Hoje eu trabalho com Analise e Desenvolvimento de Software
 - 🌱 Estudando programação e análise de dados
